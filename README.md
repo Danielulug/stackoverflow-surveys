@@ -9,13 +9,10 @@
 ## installation <a name="installation"></a>
 Necessary libraries need to be installed with pip is:
 
-sklearn
-
-pandas
-
-numpy
-
-seaborn
+sklearn  
+pandas  
+numpy  
+seaborn  
 
 ## Project Motivation <a name="motivation"></a>
 Analysing the stackoverflow survey done in 2019, focusing on the Age aspect of the user with descriptive and predictive analysis. The main question is how different age groups are part of the stack overflow community.
