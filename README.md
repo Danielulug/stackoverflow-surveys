@@ -20,7 +20,7 @@ Analysing the stackoverflow survey done in 2019, focusing on the Age aspect of t
 There is only one jupyter notebook, main.ipynb, that contains all the codes worked with in this project.
 
 ## Results<a name="results"></a>
-Main findings can be found in this(https://medium.com/@daniel.ulug/computer-science-for-all-ages-and-stripes-97dfd6ba6c41) medium post
+Main findings can be found in [this](https://medium.com/@daniel.ulug/computer-science-for-all-ages-and-stripes-97dfd6ba6c41) medium post
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
