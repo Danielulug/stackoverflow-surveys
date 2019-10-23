@@ -8,9 +8,13 @@
 
 ## installation <a name="installation"></a>
 Necessary libraries need to be installed with pip is:
+
 sklearn
+
 pandas
+
 numpy
+
 seaborn
 
 ## Project Motivation <a name="motivation"></a>
