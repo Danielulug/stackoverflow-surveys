@@ -24,4 +24,4 @@ Main findings can be found in [this](https://medium.com/@daniel.ulug/computer-sc
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The data that was worked with can be found in: https://insights.stackoverflow.com/survey
+The data that was worked with can be found [here](https://insights.stackoverflow.com/survey)
